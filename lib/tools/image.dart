@@ -1,0 +1,31 @@
+class AppImage {
+  static String arrowBack = 'assets/svg/arrow_right.svg';
+  static String bag = 'assets/svg/bag.svg';
+  static String notifacation = 'assets/svg/notifacation.svg';
+  static String search = 'assets/svg/search.svg';
+  static String redBackground = 'assets/svg/red_background.svg';
+  static String burger = 'assets/image/burger.png';
+  static String bQ = 'assets/image/b_q.png';
+  static String bun = 'assets/image/bun.png';
+  static String drink = 'assets/image/drink.png';
+  static String fastFood = 'assets/image/fastfood.png';
+  static String flash = 'assets/image/flash.png';
+  static String koreanFood = 'assets/image/korean_food.png';
+  static String other = 'assets/image/other.png';
+  static String points = 'assets/image/points.png';
+  static String rice = 'assets/image/rice.png';
+  static String shop = 'assets/image/shop.png';
+  static String sweetFood = 'assets/image/sweet_food.png';
+  static String vegatable = 'assets/image/vegetable.png';
+  static String pizza1 = 'assets/image/pizza1.png';
+  static String pizza2 = 'assets/image/pizza2.png';
+  static String pizza3 = 'assets/image/pizza3.png';
+  static String pizza4 = 'assets/image/pizza4.png';
+  static String gamburger = 'assets/image/gamburger.png';
+  static String gamburger1 = 'assets/image/gamburger1.png';
+  static String gamburger2 = 'assets/image/gamburger2.png';
+  static String gamburger3 = 'assets/image/gamburger3.png';
+  static String restuarant = 'assets/image/restuarant1.png';
+  static String favourite = 'assets/svg/favourite.svg';
+  static String star = 'assets/svg/star.svg';
+}
